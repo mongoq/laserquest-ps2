@@ -1,6 +1,6 @@
 # Laserquest PlayStation 2 Control
 
-You need the newest Arduino Library from:
+You need the latest Arduino Library from:
 
 http://www.billporter.info/2010/06/05/playstation-2-controller-arduino-library-v1-0/
 
