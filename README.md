@@ -13,3 +13,7 @@ So gehts:
 Todo - Doku von: 
 
 ![alt text](http://www.lynxmotion.com/images/product/medium/ps2c01.jpg "Extension")
+
+So ein wireless Controller:
+
+![alt text](https://wireless360controller.com/wp-content/uploads/2016/08/512BnhkQYQvL.jpg "Controller")
