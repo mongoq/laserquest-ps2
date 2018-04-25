@@ -1,9 +1,12 @@
 # Laserquest Playstation 2 Control
 
 Todo: Verbinden mit laserquest-usb Code
-Todo: Button halten implementieren
+Todo: Button gedrückt halten implementieren
+Todo: Für Prototyp neuen Servo kaufen / zuckt unkontrollierbar
+Todo: Arduino Code - Benamsung Reihenfolge ändern / warum war das nötig?
 
-Benötigt neuste Version von: http://www.billporter.info/2010/06/05/playstation-2-controller-arduino-library-v1-0/
+Benötigt neuste Version von: 
+* http://www.billporter.info/2010/06/05/playstation-2-controller-arduino-library-v1-0/
 
 So gehts:
 * Playstation 2 Verlängerung aufschneiden ...
