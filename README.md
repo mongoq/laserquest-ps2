@@ -1,4 +1,4 @@
-# Laserquest PlayStation 2 Control
+# Laserquest Playstation 2 Control
 
 TODO: Verbinden mit laserquest-usb Code
 
