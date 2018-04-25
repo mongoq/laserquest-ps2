@@ -1,7 +1,7 @@
 # Laserquest PlayStation 2 Control
 
-You need the latest Arduino Library from:
+TODO: Verbinden mit laserquest-usb Code
 
-http://www.billporter.info/2010/06/05/playstation-2-controller-arduino-library-v1-0/
+Benötigt neuste Version von: http://www.billporter.info/2010/06/05/playstation-2-controller-arduino-library-v1-0/
 
 Good luck identifying the right cables ... the colors may not be the same as shown by Bill Porter ...
