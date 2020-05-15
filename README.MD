@@ -27,3 +27,5 @@ Todo - Doku von Kabelidentifikation:
 So einen Wireless-Controller verwenden (nicht verfügbar von Sony, nur von alternativen Herstellern):
 
 ![alt text](https://wireless360controller.com/wp-content/uploads/2016/08/512BnhkQYQvL.jpg "Controller")
+
+https://create.arduino.cc/projecthub/electropeak/how-to-interface-ps2-wireless-controller-w-arduino-a0a813
